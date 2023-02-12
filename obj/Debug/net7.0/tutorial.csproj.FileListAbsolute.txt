@@ -1,0 +1,15 @@
+C:\Users\pc user\Desktop\2203\tutorial\bin\Debug\net7.0\tutorial.exe
+C:\Users\pc user\Desktop\2203\tutorial\bin\Debug\net7.0\tutorial.deps.json
+C:\Users\pc user\Desktop\2203\tutorial\bin\Debug\net7.0\tutorial.runtimeconfig.json
+C:\Users\pc user\Desktop\2203\tutorial\bin\Debug\net7.0\tutorial.dll
+C:\Users\pc user\Desktop\2203\tutorial\bin\Debug\net7.0\tutorial.pdb
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\tutorial.csproj.AssemblyReference.cache
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\tutorial.AssemblyInfoInputs.cache
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\tutorial.AssemblyInfo.cs
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\tutorial.csproj.CoreCompileInputs.cache
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\tutorial.dll
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\refint\tutorial.dll
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\tutorial.pdb
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\tutorial.genruntimeconfig.cache
+C:\Users\pc user\Desktop\2203\tutorial\obj\Debug\net7.0\ref\tutorial.dll
